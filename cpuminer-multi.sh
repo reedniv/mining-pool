@@ -11,7 +11,7 @@ do
 		echo "| |  | | | | | | | | | | (_| | |  __/ (_) | (_) | |"
 		echo "|_|  |_|_|_| |_|_|_| |_|\__, | |_|   \___/ \___/|_|"
 		echo "                         |___/"
-		echo "        \033[1;32m  Cpuminer Multi Installer\n\n"
+		echo "        \033[1;32m  CPUminer Multi Installer\n\n"
 		echo -n "Do Tou Want To Continue (Y/N) : "
   read select;
   if [ $select = "y" ]||[ $select = "Y" ]
@@ -28,11 +28,11 @@ do
 		./autogen.sh
 		./configure CFLAGS="-O3"
 		make
-		echo "Installing Finish"
+		echo "Installing Successful"
 		exit
   elif [ $select = "n" ]||[ $select = "N" ]
   then
-      echo "\033[1;31mBye Bye.....!"
+      echo "\033[1;31m Bye Bye.....!"
       sleep 2
       exit
   else
