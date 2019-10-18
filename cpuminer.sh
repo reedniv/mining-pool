@@ -29,11 +29,11 @@ do
 		./autogen.sh
 		./configure CFLAGS="-O3"
 		make
-		echo "Installing Finish"
+		echo "Installing Successful"
 		exit
   elif [ $select = "n" ]||[ $select = "N" ]
   then
-      echo "\033[1;31mBye Bye.....!"
+      echo "\033[1;31m Bye Bye.....!"
       sleep 2
       exit
   else
