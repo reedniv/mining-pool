@@ -136,6 +136,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 ? shavite3 (INKcoin)
 
 **Planned support for**
+
 scrypt-jane (YaCoin, CopperBars, Pennies, Tickets, etc..)
 
 # Dependencies
