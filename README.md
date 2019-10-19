@@ -10,7 +10,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 4. **./minerd** or **./cpuminer** -a scrypt -t 8 -s 4 -o stratum+tcp://stratum.aikapool.com:7900 -u (username) -p (password) -q
 
 # **Algorithms**
-Currently supported
+**Currently supported**
 ✓ **scrypt** (Litecoin, Dogecoin, Feathercoin, ...)
 ✓ **scrypt:N**
 ✓ **scrypt-jane:N**
