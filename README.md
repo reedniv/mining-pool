@@ -165,6 +165,8 @@ Clone with git clone https://github.com/reedniv/mining-pool.git
 Run **./cpuminer --help** or **./minerd --help** to see options.
 
 # Donations
+Donations for the work done in this fork are accepted :
+
 **BTC :** 3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543
 
 **ETH :** 0xD4B2af2bF12625508ECA99877A02B9e060cd84c2
