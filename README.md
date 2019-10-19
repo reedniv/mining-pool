@@ -11,4 +11,5 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 # Donate
 **BTC :** 3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543
+
 **ETH :** 0xD4B2af2bF12625508ECA99877A02B9e060cd84c2
