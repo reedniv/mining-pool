@@ -11,9 +11,13 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 # **Algorithms**
 **Currently supported**
+
 ✓ **scrypt** (Litecoin, Dogecoin, Feathercoin, ...)
+
 ✓ **scrypt:N**
+
 ✓ **scrypt-jane:N**
+
 ✓ **sha256d** (Bitcoin, Freicoin, Peercoin/PPCoin, Terracoin, ...)
 ✓ **allium** (Garlicoin, Tuxcoin)
 ✓ **axiom** (Axiom Shabal-256 based MemoHash)
