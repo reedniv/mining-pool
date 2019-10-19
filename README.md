@@ -9,9 +9,9 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 3. sh namescript.sh (wait until finish installation) if finish go to step 4
 4. **./minerd** or **./cpuminer** -a scrypt -t 8 -s 4 -o stratum+tcp://stratum.aikapool.com:7900 -u (username) -p (password) -q
 
-# **Algorithms**
+# Algorithms
 
- **Currently supported**
+ ### Currently supported
 
 ✓ **scrypt** (Litecoin, Dogecoin, Feathercoin, ...)
 
@@ -121,7 +121,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 ✓ **zr5** (Ziftrcoin [ZRC])
 
-**Implemented, but untested**
+### Implemented, but untested
 
 ? hefty1 (Heavycoin)
 
@@ -135,7 +135,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 ? shavite3 (INKcoin)
 
-**Planned support for**
+### Planned support for :
 
 scrypt-jane (YaCoin, CopperBars, Pennies, Tickets, etc..)
 
@@ -167,6 +167,6 @@ Run **./cpuminer --help** or **./minerd --help** to see options.
 # Donations
 Donations for the work done in this fork are accepted :
 
-**BTC :** 3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543
+**BTC :** `3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543`
 
-**ETH :** 0xD4B2af2bF12625508ECA99877A02B9e060cd84c2
+**ETH :** `0xD4B2af2bF12625508ECA99877A02B9e060cd84c2`
