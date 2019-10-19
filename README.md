@@ -151,6 +151,15 @@ pthreads
 
 zlib (for curl/ssl)
 
+
+# Download
+
+Windows releases: https://github.com/reedniv/mining-pool/releases
+
+Git tree: https://github.com/reedniv/mining-pool
+
+Clone with git clone https://github.com/reedniv/mining-pool.git
+
 # Donate
 **BTC :** 3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543
 
