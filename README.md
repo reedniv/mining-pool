@@ -10,7 +10,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 4. **./minerd** or **./cpuminer** -a scrypt -t 8 -s 4 -o stratum+tcp://stratum.aikapool.com:7900 -u (username) -p (password) -q
 
 # **Algorithms**
-**Currently supported**
+# **Currently supported**
 
 ✓ **scrypt** (Litecoin, Dogecoin, Feathercoin, ...)
 
@@ -120,21 +120,32 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 ✓ **zr5** (Ziftrcoin [ZRC])
 
-**Implemented, but untested**
+# **Implemented, but untested**
 ? hefty1 (Heavycoin)
+
 ? keccak (Maxcoin HelixCoin, CryptoMeth, Galleon, 365coin, Slothcoin, BitcointalkCoin)
+
 ? keccakc (Creativecoin)
+
 ? luffa (Joincoin, Doomcoin)
+
 ? rainforest
+
 ? shavite3 (INKcoin)
 
-**Planned support for**
+# **Planned support for**
 scrypt-jane (YaCoin, CopperBars, Pennies, Tickets, etc..)
-Dependencies
+
+# Dependencies
+
 libcurl http://curl.haxx.se/libcurl/
+
 jansson http://www.digip.org/jansson/ (jansson source is included in-tree)
+
 openssl libcrypto https://www.openssl.org/
+
 pthreads
+
 zlib (for curl/ssl)
 
 # Donate
