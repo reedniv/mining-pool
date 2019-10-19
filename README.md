@@ -2,14 +2,14 @@
 
 Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
-# Step by Step to Installation :
+## Step by Step to Installation :
 
 1. git clone https://github.com/reedniv/mining-pool.git
 2. cd mining-pool --> directory name or you can use --> **dir** or **ls**
 3. sh namescript.sh (wait until finish installation) if finish go to step 4
 4. **./minerd** or **./cpuminer** -a scrypt -t 8 -s 4 -o stratum+tcp://stratum.aikapool.com:7900 -u (username) -p (password) -q
 
-# Algorithms
+## Algorithms
 
  ### Currently supported
 
@@ -139,7 +139,7 @@ Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
 scrypt-jane (YaCoin, CopperBars, Pennies, Tickets, etc..)
 
-# Dependencies
+## Dependencies
 
 libcurl http://curl.haxx.se/libcurl/
 
@@ -152,7 +152,7 @@ pthreads
 zlib (for curl/ssl)
 
 
-# Download
+## Download
 
 Windows releases: https://github.com/reedniv/mining-pool/releases
 
@@ -160,11 +160,11 @@ Git tree: https://github.com/reedniv/mining-pool
 
 Clone with git clone https://github.com/reedniv/mining-pool.git
 
-# Usage instructions
+## Usage instructions
 
 Run **./cpuminer --help** or **./minerd --help** to see options.
 
-# Donations
+## Donations
 Donations for the work done in this fork are accepted :
 
 **BTC :** `3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543`
