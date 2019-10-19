@@ -1,4 +1,4 @@
-# mining-pool
+# Mining Pool
 
 Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
