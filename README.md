@@ -167,6 +167,13 @@ Run **./cpuminer --help** or **./minerd --help** to see options.
 ## Donations
 Donations for the work done in this fork are accepted :
 
-**BTC :** `3NVVGiiBdvyd7Qc6iiC4ZN5nD8ypGGQ543`
+**BTC :** `19UGKzzUnQWRuifyTBs73vVvT7fxMhipiV`
 
-**ETH :** `0xD4B2af2bF12625508ECA99877A02B9e060cd84c2`
+**ETH :** `0x202ee3b6468543240e58293f4d42ace384fd5c67`
+
+**LTC :** `Lb87M76Rf2MNpyX4tJSH9wTs3b1BnWCjwK`
+
+**DOGE :** `D6BANAmU8Zy4RSwMc1a1VPgMfHkrHXCAAA`
+
+
+**We are very grateful if you donate**
