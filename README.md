@@ -2,6 +2,21 @@
 
 Simple to installing a cpuminer (use Kali Linux or Ubuntu recommended)
 
+## Usage instructions
+
+Run **./cpuminer --help** or **./minerd --help** to see options.
+
+## Donations
+Donations for the work done in this fork are accepted :
+
+**BTC :** `19UGKzzUnQWRuifyTBs73vVvT7fxMhipiV`
+
+**ETH :** `0x202ee3b6468543240e58293f4d42ace384fd5c67`
+
+**LTC :** `Lb87M76Rf2MNpyX4tJSH9wTs3b1BnWCjwK`
+
+**DOGE :** `D6BANAmU8Zy4RSwMc1a1VPgMfHkrHXCAAA`
+
 ## Step by Step to Installation :
 
 1. git clone https://github.com/reedniv/mining-pool.git
@@ -159,21 +174,3 @@ Windows releases: https://github.com/reedniv/mining-pool/releases
 Git tree: https://github.com/reedniv/mining-pool
 
 Clone with git clone https://github.com/reedniv/mining-pool.git
-
-## Usage instructions
-
-Run **./cpuminer --help** or **./minerd --help** to see options.
-
-## Donations
-Donations for the work done in this fork are accepted :
-
-**BTC :** `19UGKzzUnQWRuifyTBs73vVvT7fxMhipiV`
-
-**ETH :** `0x202ee3b6468543240e58293f4d42ace384fd5c67`
-
-**LTC :** `Lb87M76Rf2MNpyX4tJSH9wTs3b1BnWCjwK`
-
-**DOGE :** `D6BANAmU8Zy4RSwMc1a1VPgMfHkrHXCAAA`
-
-
-**We are very grateful if you donate**
